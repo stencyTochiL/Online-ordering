@@ -1,0 +1,26 @@
+ORDER 1
+Packing Label:
+Notebook (Product ID: NB-101)
+Pen Pack (Product ID: PN-202)
+
+Shipping Label:
+Alex Morgan
+123 Example Street
+Seattle, WA
+USA
+
+Total Cost: $23.00
+
+ORDER 2
+Packing Label:
+Headphones (Product ID: HP-303)
+USB Cable (Product ID: CB-404)
+
+Shipping Label:
+Ada Okafor
+14 Sample Road
+Lagos, Lagos
+Nigeria
+
+Total Cost: $76.00
+
